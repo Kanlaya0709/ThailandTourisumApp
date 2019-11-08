@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Thailand Tourisum</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="northern_button">ภาคเหนือ</string>
+    <string name="northeastern_button">ภาคตะวันออกเฉียงเหนือ</string>
+    <string name="central_button">ภาคกลาง</string>
+    <string name="easter_button">ภาคตะวันออก</string>
+    <string name="southern_button">ภาคใต้</string>
+</resources>
